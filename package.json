@@ -19,5 +19,14 @@
     "eslint-config-prettier": "^10.1.8",
     "nodemon": "^3.1.14",
     "prettier": "^3.10.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/st25v7x203-lythikimchuong/ST25V7X203_Ly_Thi_Kim_Chuong_BACKEND_1.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/st25v7x203-lythikimchuong/ST25V7X203_Ly_Thi_Kim_Chuong_BACKEND_1/issues"
+  },
+  "homepage": "https://github.com/st25v7x203-lythikimchuong/ST25V7X203_Ly_Thi_Kim_Chuong_BACKEND_1#readme"
 }
